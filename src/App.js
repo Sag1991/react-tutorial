@@ -15,7 +15,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					React Tutorial for Beginners! testing branch
+					React Tutorial for Beginners! changes in the tutorial branch
 				</a>
 			</header>
 		</div>
